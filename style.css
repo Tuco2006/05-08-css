@@ -1,0 +1,24 @@
+:root{
+    --meupiru: #fff;
+    --cor-titulo: #101828;
+    --cor-destaque:rgb(204, 104, 104);
+    --cor-texto: #667085;
+}
+
+body{
+    background-color: var(--cor-destaque);
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1{
+    color: var(--cor-texto);
+
+    .container{
+    max-width: 980px;
+    margin: 0 auto;
+}
+
+}
